@@ -84,7 +84,7 @@ The footer of every page contains developer contact, so that for any bug anyone 
 
 * __Backend__
 
-1. Clone the repo
+1. Clone the repo https://github.com/ayushi-8102/Rate-It-Backend
 
    ```sh
    git clone 
