@@ -73,7 +73,7 @@ The footer of every page contains developer contact, so that for any bug anyone 
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/tend2infinity/Rate-It-Project
+   git clone https://github.com/ayushi-8102/Rate-It.git
    ```
 2. Install NPM packages
 
@@ -87,7 +87,7 @@ The footer of every page contains developer contact, so that for any bug anyone 
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/savi-1311/Rate-It-Backend
+   git clone 
    ```
 2. Install NPM packages
 
