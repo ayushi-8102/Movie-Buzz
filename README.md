@@ -84,10 +84,10 @@ The footer of every page contains developer contact, so that for any bug anyone 
 
 * __Backend__
 
-1. Clone the repo https://github.com/ayushi-8102/Rate-It-Backend
+1. Clone the repo 
 
    ```sh
-   git clone 
+   git clone https://github.com/ayushi-8102/Rate-It-Backend.git
    ```
 2. Install NPM packages
 
