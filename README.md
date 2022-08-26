@@ -7,7 +7,7 @@ The landing page gives us a brief introduction about this app. Anyone can Signup
 <br>
 ![](https://github.com/tend2infinity/Rate-It-Project/blob/master/public/screenshots/rateit1.JPG)
 ![](https://github.com/tend2infinity/Rate-It-Project/blob/master/public/screenshots/rateit2.JPG)
-![](https://github.com/tend2infinity/Rate-It-Project/blob/master/public/screenshots/rateit3.JPG)
+
 
 ### Authentication
 Firebase authentication service is used for signin and signup features using email, username and password .
