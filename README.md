@@ -46,10 +46,7 @@ The leaderboard contains the top voted movies by our community which is sorted i
 ![](https://github.com/tend2infinity/Rate-It-Project/blob/master/public/screenshots/rateit12.JPG)
 ![](https://github.com/tend2infinity/Rate-It-Project/blob/master/public/screenshots/rateit13.JPG)
 
-### Footer
-The footer of every page contains developer contact, so that for any bug anyone can reach us immediately!
-<br>
-![](https://github.com/tend2infinity/Rate-It-Project/blob/master/public/screenshots/rateit3.JPG)
+
 
 
 ***
