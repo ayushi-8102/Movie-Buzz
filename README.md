@@ -1,4 +1,4 @@
-# RateIt!
+# Movie Buzz ✨
 
 __Special Mention:__ [TMDB API](https://developers.themoviedb.org/3) for providing the amazing database of movies.
 ## Main Features
